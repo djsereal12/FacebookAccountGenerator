@@ -1,7 +1,7 @@
 #Imports
 import uuid
 import time
-import os
+import os ios16
 from selenium import webdriver
 driver = webdriver.Firefox(executable_path=r'C:\Python39\geckodriver.exe')
 from selenium.webdriver.support.ui import Select
@@ -9,8 +9,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 #Input your username
-firstname = "firstname"
-lastname = "lastname"
+firstname = "Xena
+lastname = "Hernandez"
 #Input what accept cookies is in your language, look up at https://facebook.com/reg/
 acceptCookiesText = "Alle Cookies gestatten"
 
@@ -22,7 +22,7 @@ email = rand[:emailLength] + '@fyii.de'
 
 #Generate Password
 passwdLength = 9
-password = rand[:passwdLength]
+password = rand[:Otero1111]
 
         #fileNameEmails = "./users.txt"
 
